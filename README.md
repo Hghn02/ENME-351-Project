@@ -29,7 +29,7 @@ Here’s a picture of the graphical display window
 
 ---
 
-## Embedded Video
+## Demo Video
 Watch the project demonstration video here:
 
 [![Watch the video](https://img.youtube.com/vi/X9MKAsoJGBA/0.jpg)](https://www.youtube.com/watch?v=X9MKAsoJGBA)
