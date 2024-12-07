@@ -22,6 +22,13 @@ The following components were used in this project:
 
 ---
 
+## Telemetry Window
+Here’s a picture of the graphical display window
+
+![Screenshot Placeholder](C:/Users/Harvir Ghuman/Pictures/Screenshots/Screenshot 2024-12-07 133217.png)
+
+---
+
 ## Embedded Video
 Watch the project demonstration video here:
 
