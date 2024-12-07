@@ -25,7 +25,7 @@ The following components were used in this project:
 ## Telemetry Window
 Here’s a picture of the graphical display window
 
-![Screenshot Placeholder](Demo_Software/Telemetry/Screenshot 2024-12-07 133217.png)
+![Screenshot Placeholder](https://github.com/Hghn02/ENME-351-Project/blob/df173d63fadcd1a94ad8d79a3953523d8c28310d/Demo_Software/Telemetry/Screenshot%202024-12-07%20133217.png)
 
 ---
 
