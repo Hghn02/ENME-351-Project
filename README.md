@@ -19,7 +19,10 @@ The following components were used in this project:
 
 ## How It Works
 
+The IMU-guided 2-Axis gimbal uses a BNO055 9 DOF IMU sensor to detect Euler angles, which are transmitted to the Arduino via I2C. The Arduino processes the IMU data and controls two FEETECH Mini Servos, which adjust the gimbal's pan and tilt angles.
+Mounted on the gimbal, the IR distance sensor detects the target's range, while the laser diode pulses based on the distance sensed. The laser diode is controlled through an NPN transistor circuit. The servo motors are powered by two 6.0V rechargeable NiMH batteries, with all components wired through a breadboard.
 
+The accompanying Processing software displays live telemetry data, including orientation angles and distance readings, providing real-time feedback to the user.
 ---
 
 ## Telemetry Window
